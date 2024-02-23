@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         title: 'Name Explore',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepOrange),
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple.shade200),
         ),
         home: MyHomePage(),
       ),
